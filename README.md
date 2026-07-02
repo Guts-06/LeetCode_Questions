@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Guts-06/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Guts-06/LeetCode_Questions/tree/master/0053-maximum-subarray) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Guts-06/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Guts-06/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
