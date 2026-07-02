@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Guts-06/LeetCode_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1991-find-the-middle-index-in-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Guts-06/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Guts-06/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0229-majority-element-ii) |
+| [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
 | ------- |
