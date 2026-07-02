@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Guts-06/LeetCode_Questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
@@ -326,12 +327,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Guts-06/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Guts-06/LeetCode_Questions/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Guts-06/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Guts-06/LeetCode_Questions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Guts-06/LeetCode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/Guts-06/LeetCode_Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Guts-06/LeetCode_Questions/tree/master/0994-rotting-oranges) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Guts-06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Guts-06/LeetCode_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Guts-06/LeetCode_Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Guts-06/LeetCode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Guts-06/LeetCode_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Guts-06/LeetCode_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Guts-06/LeetCode_Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Guts-06/LeetCode_Questions/tree/master/0733-flood-fill) |
