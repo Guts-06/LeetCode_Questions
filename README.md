@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Guts-06/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Guts-06/LeetCode_Questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Guts-06/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Guts-06/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -123,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Guts-06/LeetCode_Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
