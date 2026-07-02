@@ -218,10 +218,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Guts-06/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
-| [0387-first-unique-character-in-a-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Guts-06/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Guts-06/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Guts-06/LeetCode_Questions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Guts-06/LeetCode_Questions/tree/master/0846-hand-of-straights) |
@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Guts-06/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Guts-06/LeetCode_Questions/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -296,7 +297,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
-| [0387-first-unique-character-in-a-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Guts-06/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Guts-06/LeetCode_Questions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0767-reorganize-string) |
@@ -390,10 +390,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Guts-06/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Guts-06/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
-| [0387-first-unique-character-in-a-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Guts-06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Guts-06/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0767-reorganize-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -415,7 +415,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Guts-06/LeetCode_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
-| [0387-first-unique-character-in-a-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -426,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Guts-06/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
