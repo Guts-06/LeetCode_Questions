@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Guts-06/LeetCode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1390-four-divisors](https://github.com/Guts-06/LeetCode_Questions/tree/master/1390-four-divisors) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Guts-06/LeetCode_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Guts-06/LeetCode_Questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Guts-06/LeetCode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/Guts-06/LeetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Guts-06/LeetCode_Questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Guts-06/LeetCode_Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Guts-06/LeetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Guts-06/LeetCode_Questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/Guts-06/LeetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Guts-06/LeetCode_Questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Guts-06/LeetCode_Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Guts-06/LeetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Guts-06/LeetCode_Questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/Guts-06/LeetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
