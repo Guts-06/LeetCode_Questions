@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Guts-06/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Guts-06/LeetCode_Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -553,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
