@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Guts-06/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Guts-06/LeetCode_Questions/tree/master/1390-four-divisors) |
+| [1922-count-good-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/2235-add-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Guts-06/LeetCode_Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
