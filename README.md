@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/Guts-06/LeetCode_Questions/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
