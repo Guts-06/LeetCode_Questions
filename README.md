@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Guts-06/LeetCode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Guts-06/LeetCode_Questions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Guts-06/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Guts-06/LeetCode_Questions/tree/master/0704-binary-search) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Guts-06/LeetCode_Questions/tree/master/0506-relative-ranks) |
 | [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Guts-06/LeetCode_Questions/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/Guts-06/LeetCode_Questions/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Guts-06/LeetCode_Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
