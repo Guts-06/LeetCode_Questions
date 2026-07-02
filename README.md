@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Guts-06/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Simulation
 |  |
 | ------- |
