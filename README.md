@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Guts-06/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Guts-06/LeetCode_Questions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Guts-06/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Union-Find
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0556-next-greater-element-iii) |
 | [0767-reorganize-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0767-reorganize-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Guts-06/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Guts-06/LeetCode_Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
