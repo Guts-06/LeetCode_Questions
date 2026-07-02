@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Guts-06/LeetCode_Questions/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Guts-06/LeetCode_Questions/tree/master/3975-filter-occupied-intervals) |
 ## Binary Search
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Guts-06/LeetCode_Questions/tree/master/0881-boats-to-save-people) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Guts-06/LeetCode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Guts-06/LeetCode_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Guts-06/LeetCode_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Guts-06/LeetCode_Questions/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Guts-06/LeetCode_Questions/tree/master/3975-filter-occupied-intervals) |
 ## Counting
 |  |
