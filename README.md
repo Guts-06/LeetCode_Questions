@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Guts-06/LeetCode_Questions/tree/master/0031-next-permutation) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Guts-06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0556-next-greater-element-iii) |
@@ -266,5 +268,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
