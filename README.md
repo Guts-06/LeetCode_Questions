@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Guts-06/LeetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Guts-06/LeetCode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Guts-06/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Union-Find
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Guts-06/LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
