@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3941-password-strength](https://github.com/Guts-06/LeetCode_Questions/tree/master/3941-password-strength) |
 ## Two Pointers
 |  |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Guts-06/LeetCode_Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3941-password-strength](https://github.com/Guts-06/LeetCode_Questions/tree/master/3941-password-strength) |
 ## Design
 |  |
