@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Guts-06/LeetCode_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1991-find-the-middle-index-in-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Guts-06/LeetCode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2104-sum-of-subarray-ranges](https://github.com/Guts-06/LeetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Guts-06/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Guts-06/LeetCode_Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Guts-06/LeetCode_Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Guts-06/LeetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Guts-06/LeetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Guts-06/LeetCode_Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Guts-06/LeetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Guts-06/LeetCode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
 | ------- |
