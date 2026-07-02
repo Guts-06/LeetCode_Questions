@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Guts-06/LeetCode_Questions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Guts-06/LeetCode_Questions/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/1009-complement-of-base-10-integer) |
 ## Math
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Guts-06/LeetCode_Questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Guts-06/LeetCode_Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Guts-06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Guts-06/LeetCode_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Guts-06/LeetCode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Guts-06/LeetCode_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
