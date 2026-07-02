@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Guts-06/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Guts-06/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Guts-06/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Guts-06/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Guts-06/LeetCode_Questions/tree/master/0455-assign-cookies) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Guts-06/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Guts-06/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Guts-06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Guts-06/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
