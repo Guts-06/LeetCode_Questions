@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Guts-06/LeetCode_Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Guts-06/LeetCode_Questions/tree/master/0231-power-of-two) |
+| [0313-super-ugly-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0313-super-ugly-number) |
 | [0556-next-greater-element-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0556-next-greater-element-iii) |
 | [1390-four-divisors](https://github.com/Guts-06/LeetCode_Questions/tree/master/1390-four-divisors) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0283-move-zeroes) |
+| [0313-super-ugly-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Guts-06/LeetCode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Guts-06/LeetCode_Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Guts-06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Guts-06/LeetCode_Questions/tree/master/0152-maximum-product-subarray) |
+| [0313-super-ugly-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Guts-06/LeetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
