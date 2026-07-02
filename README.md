@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Guts-06/LeetCode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Guts-06/LeetCode_Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0556-next-greater-element-iii) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Guts-06/LeetCode_Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Design
 |  |
 | ------- |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Guts-06/LeetCode_Questions/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Guts-06/LeetCode_Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
