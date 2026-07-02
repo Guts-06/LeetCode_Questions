@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Guts-06/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Guts-06/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
