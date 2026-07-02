@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Guts-06/LeetCode_Questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Guts-06/LeetCode_Questions/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/1009-complement-of-base-10-integer) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Guts-06/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Guts-06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
