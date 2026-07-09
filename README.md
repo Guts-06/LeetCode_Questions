@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Guts-06/LeetCode_Questions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Guts-06/LeetCode_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Guts-06/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Guts-06/LeetCode_Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3941-password-strength](https://github.com/Guts-06/LeetCode_Questions/tree/master/3941-password-strength) |
 ## Two Pointers
 |  |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Guts-06/LeetCode_Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Guts-06/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Guts-06/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Guts-06/LeetCode_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Guts-06/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Guts-06/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
