@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Guts-06/LeetCode_Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Guts-06/LeetCode_Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Guts-06/LeetCode_Questions/tree/master/0739-daily-temperatures) |
+| [0815-bus-routes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/Guts-06/LeetCode_Questions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Guts-06/LeetCode_Questions/tree/master/0875-koko-eating-bananas) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Guts-06/LeetCode_Questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Guts-06/LeetCode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0767-reorganize-string) |
+| [0815-bus-routes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/Guts-06/LeetCode_Questions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Guts-06/LeetCode_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Guts-06/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Guts-06/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
+| [0815-bus-routes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/Guts-06/LeetCode_Questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Guts-06/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
