@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Guts-06/LeetCode_Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Guts-06/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Guts-06/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/Guts-06/LeetCode_Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Guts-06/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Guts-06/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/Guts-06/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/Guts-06/LeetCode_Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Guts-06/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Guts-06/LeetCode_Questions/tree/master/1765-map-of-highest-peak) |
+| [2685-count-the-number-of-complete-components](https://github.com/Guts-06/LeetCode_Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Memoization
 |  |
 | ------- |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Guts-06/LeetCode_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Guts-06/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Guts-06/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
+| [2685-count-the-number-of-complete-components](https://github.com/Guts-06/LeetCode_Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
