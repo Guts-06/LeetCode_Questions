@@ -719,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Guts-06/LeetCode_Questions/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Guts-06/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Guts-06/LeetCode_Questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
