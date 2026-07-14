@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Guts-06/LeetCode_Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Guts-06/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Guts-06/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Guts-06/LeetCode_Questions/tree/master/1765-map-of-highest-peak) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Guts-06/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Guts-06/LeetCode_Questions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Guts-06/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Guts-06/LeetCode_Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Guts-06/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Guts-06/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Guts-06/LeetCode_Questions/tree/master/1765-map-of-highest-peak) |
 | [2685-count-the-number-of-complete-components](https://github.com/Guts-06/LeetCode_Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Guts-06/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -706,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Guts-06/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Guts-06/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/Guts-06/LeetCode_Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Guts-06/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
@@ -719,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Guts-06/LeetCode_Questions/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Guts-06/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Guts-06/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
 | ------- |
