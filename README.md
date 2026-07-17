@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Guts-06/LeetCode_Questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Guts-06/LeetCode_Questions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Guts-06/LeetCode_Questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Guts-06/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Guts-06/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Guts-06/LeetCode_Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Guts-06/LeetCode_Questions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Guts-06/LeetCode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0542-01-matrix) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Guts-06/LeetCode_Questions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Guts-06/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Guts-06/LeetCode_Questions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Guts-06/LeetCode_Questions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Guts-06/LeetCode_Questions/tree/master/0131-palindrome-partitioning) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Guts-06/LeetCode_Questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Guts-06/LeetCode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0101-symmetric-tree) |
@@ -699,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Guts-06/LeetCode_Questions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Guts-06/LeetCode_Questions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Guts-06/LeetCode_Questions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Guts-06/LeetCode_Questions/tree/master/0131-palindrome-partitioning) |
