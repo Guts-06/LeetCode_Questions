@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Guts-06/LeetCode_Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Guts-06/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Guts-06/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Guts-06/LeetCode_Questions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Guts-06/LeetCode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Guts-06/LeetCode_Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Guts-06/LeetCode_Questions/tree/master/0724-find-pivot-index) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Guts-06/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Guts-06/LeetCode_Questions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Guts-06/LeetCode_Questions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Guts-06/LeetCode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Guts-06/LeetCode_Questions/tree/master/0769-max-chunks-to-make-sorted) |
