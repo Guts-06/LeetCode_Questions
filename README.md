@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/Guts-06/LeetCode_Questions/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/2235-add-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Guts-06/LeetCode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/Guts-06/LeetCode_Questions/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Guts-06/LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Guts-06/LeetCode_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Guts-06/LeetCode_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Guts-06/LeetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Guts-06/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Greedy
@@ -795,4 +798,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0062-unique-paths) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
