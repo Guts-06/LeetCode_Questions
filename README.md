@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Guts-06/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Guts-06/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Guts-06/LeetCode_Questions/tree/master/3951-minimum-energy-to-maintain-brightness) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/Guts-06/LeetCode_Questions/tree/master/3941-password-strength) |
 ## Two Pointers
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Guts-06/LeetCode_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2784-check-if-array-is-good](https://github.com/Guts-06/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Guts-06/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Guts-06/LeetCode_Questions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
