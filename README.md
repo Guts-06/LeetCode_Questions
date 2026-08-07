@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/2235-add-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Guts-06/LeetCode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Guts-06/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Guts-06/LeetCode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Guts-06/LeetCode_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3941-password-strength](https://github.com/Guts-06/LeetCode_Questions/tree/master/3941-password-strength) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/Guts-06/LeetCode_Questions/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/Guts-06/LeetCode_Questions/tree/master/1079-letter-tile-possibilities) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -801,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Guts-06/LeetCode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Guts-06/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
