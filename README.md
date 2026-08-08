@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Guts-06/LeetCode_Questions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Guts-06/LeetCode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Guts-06/LeetCode_Questions/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Guts-06/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Guts-06/LeetCode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0509-fibonacci-number) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Guts-06/LeetCode_Questions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Guts-06/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Guts-06/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0567-permutation-in-string) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Guts-06/LeetCode_Questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Guts-06/LeetCode_Questions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Guts-06/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Guts-06/LeetCode_Questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Guts-06/LeetCode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
