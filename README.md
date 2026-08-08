@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Guts-06/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Guts-06/LeetCode_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Guts-06/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Guts-06/LeetCode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Guts-06/LeetCode_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Guts-06/LeetCode_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Guts-06/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Guts-06/LeetCode_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Guts-06/LeetCode_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Guts-06/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Simulation
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guts-06/LeetCode_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Guts-06/LeetCode_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
