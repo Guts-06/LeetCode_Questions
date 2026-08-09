@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Guts-06/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/Guts-06/LeetCode_Questions/tree/master/1390-four-divisors) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Guts-06/LeetCode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Guts-06/LeetCode_Questions/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Guts-06/LeetCode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Guts-06/LeetCode_Questions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Guts-06/LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/1991-find-the-middle-index-in-array) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Guts-06/LeetCode_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Guts-06/LeetCode_Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1140-stone-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -822,13 +826,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
