@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/Guts-06/LeetCode_Questions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Guts-06/LeetCode_Questions/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Guts-06/LeetCode_Questions/tree/master/2235-add-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/Guts-06/LeetCode_Questions/tree/master/1510-stone-game-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Guts-06/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Guts-06/LeetCode_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -828,14 +830,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Guts-06/LeetCode_Questions/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Guts-06/LeetCode_Questions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Guts-06/LeetCode_Questions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Guts-06/LeetCode_Questions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Guts-06/LeetCode_Questions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
