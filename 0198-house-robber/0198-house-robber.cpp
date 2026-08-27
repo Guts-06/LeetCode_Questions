@@ -1,19 +1,23 @@
 class Solution {
 public:
-    int f(int index,vector<int>&nums,vector<int>&dp){
-        if(index<0) return 0;
-        if(dp[index]!=-1) return dp[index];
-        
-        int pick=nums[index]+f(index-2,nums,dp);
-        int notpick=0+f(index-1,nums,dp);
-
-        dp[index]=max(pick,notpick);
-        return dp[index];
-        }
+    
     int rob(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>dp(n,-1);
-        dp[0]=nums[0];
-        return f(n-1,nums,dp);
+        if(nums.size()==1){
+            return nums[0];
+        }
+        // vector<int>dp(nums.size(),-1);
+        int prevprev=nums[0];
+        int prev=max(nums[0],nums[1]);
+        // dp[0]=nums[0];
+        // dp[1]=max(nums[0],nums[1]);
+        for(int i=2;i<nums.size();i++){
+            int pick=nums[i]+prevprev;
+            int notpick=prev;
+            prevprev=prev;
+            prev=max(pick,notpick);
+            
+            // dp[i]=max(pick,notpick);
+        }
+        return prev;
     }
 };
