@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Guts-06/LeetCode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Guts-06/LeetCode_Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Guts-06/LeetCode_Questions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Guts-06/LeetCode_Questions/tree/master/0506-relative-ranks) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Guts-06/LeetCode_Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Guts-06/LeetCode_Questions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0678-valid-parenthesis-string) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Guts-06/LeetCode_Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Guts-06/LeetCode_Questions/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/Guts-06/LeetCode_Questions/tree/master/1079-letter-tile-possibilities) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -876,4 +879,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Guts-06/LeetCode_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
