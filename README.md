@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Guts-06/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-path-with-minimum-effort](https://github.com/Guts-06/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Guts-06/LeetCode_Questions/tree/master/1765-map-of-highest-peak) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Guts-06/LeetCode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Guts-06/LeetCode_Questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Guts-06/LeetCode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Guts-06/LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Guts-06/LeetCode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Guts-06/LeetCode_Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Guts-06/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Guts-06/LeetCode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Guts-06/LeetCode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Guts-06/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Guts-06/LeetCode_Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Guts-06/LeetCode_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
