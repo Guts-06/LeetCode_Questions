@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Guts-06/LeetCode_Questions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Guts-06/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Guts-06/LeetCode_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Guts-06/LeetCode_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Guts-06/LeetCode_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/3731-find-missing-elements) |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Guts-06/LeetCode_Questions/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Guts-06/LeetCode_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
