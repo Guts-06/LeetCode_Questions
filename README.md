@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Guts-06/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Guts-06/LeetCode_Questions/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Guts-06/LeetCode_Questions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Guts-06/LeetCode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/Guts-06/LeetCode_Questions/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Guts-06/LeetCode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Guts-06/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Guts-06/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Guts-06/LeetCode_Questions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Guts-06/LeetCode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Guts-06/LeetCode_Questions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Guts-06/LeetCode_Questions/tree/master/0621-task-scheduler) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Guts-06/LeetCode_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Guts-06/LeetCode_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0355-design-twitter](https://github.com/Guts-06/LeetCode_Questions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Guts-06/LeetCode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Guts-06/LeetCode_Questions/tree/master/0901-online-stock-span) |
 ## Queue
