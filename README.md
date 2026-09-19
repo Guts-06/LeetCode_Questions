@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Guts-06/LeetCode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Guts-06/LeetCode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/Guts-06/LeetCode_Questions/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Guts-06/LeetCode_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Guts-06/LeetCode_Questions/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/Guts-06/LeetCode_Questions/tree/master/1922-count-good-numbers) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Guts-06/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Guts-06/LeetCode_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Tree
 |  |
 | ------- |
