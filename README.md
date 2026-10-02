@@ -927,4 +927,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Guts-06/LeetCode_Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
