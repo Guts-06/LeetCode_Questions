@@ -931,4 +931,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Guts-06/LeetCode_Questions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
