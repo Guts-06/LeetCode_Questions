@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Guts-06/LeetCode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Guts-06/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Guts-06/LeetCode_Questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Guts-06/LeetCode_Questions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Guts-06/LeetCode_Questions/tree/master/0392-is-subsequence) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Guts-06/LeetCode_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Guts-06/LeetCode_Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Guts-06/LeetCode_Questions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Guts-06/LeetCode_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Guts-06/LeetCode_Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Guts-06/LeetCode_Questions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Guts-06/LeetCode_Questions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Guts-06/LeetCode_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Guts-06/LeetCode_Questions/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Guts-06/LeetCode_Questions/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/Guts-06/LeetCode_Questions/tree/master/1079-letter-tile-possibilities) |
